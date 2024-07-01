@@ -54,3 +54,7 @@ body {
   border-radius: 5px;
   font-size: 30px;
 }
+@media(max-width: 650px){
+  .heading{
+     font-size: 40px;
+}
